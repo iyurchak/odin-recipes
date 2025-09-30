@@ -1,0 +1,32 @@
+.text-center {
+    text-align: center;
+}
+
+.background {
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    background-color: #3489b1;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0;
+}
+
+ul, p {
+    margin: 0 auto;
+    text-align: left;
+    width: 500px;
+    font-size: 20px;
+}
+
+ul {
+    margin-bottom: 20px;
+    background-color: #ecc5c5;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
